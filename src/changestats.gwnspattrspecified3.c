@@ -5,7 +5,7 @@
  *
  */
 
-#include "d_gwnspattrspecified3"
+#include "d_gwnspattrspecified3.h"
 
 
 CHANGESTAT_FN(d_gwnspattrspecified3){
