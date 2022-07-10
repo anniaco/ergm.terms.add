@@ -7,7 +7,6 @@
 
 #include "d_gwnspattrspecified3.h"
 
-
 CHANGESTAT_FN(d_gwnspattrspecified3){
   Edge e, f;
   int i, echange, ochange;
