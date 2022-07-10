@@ -5,7 +5,7 @@
  *
  */
 
-#include "d_gwnspattrspecified3.h"
+#include "changestats.gwnspattrspecified3.h"
 
 CHANGESTAT_FN(d_gwnspattrspecified3){
   Edge e, f;
