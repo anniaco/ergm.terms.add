@@ -7,7 +7,7 @@
 
 #include "changestats.gwnspattrspecified3.h"
 
-CHANGESTAT_FN(d_gwnspattrspecified3){
+D_CHANGESTAT_FN(d_gwnspattrspecified3){
   Edge e, f;
   int i, echange, ochange;
   int L2tu, L2uh, L2th;
