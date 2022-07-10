@@ -1,4 +1,4 @@
-# ergm.terms.contrib
+# ergm.terms.add
 A collection of ERGM change-statistics (model-terms) contributed by the statnet user community
 
 Build status:
